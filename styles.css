@@ -1,0 +1,33 @@
+title{
+    align-self: center;
+    align-content: center;
+}
+
+
+h1{
+    color:white;
+    text-align: center;
+}
+
+.img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:lightgoldenrodyellow;
+}
+
+h3{
+    color:black
+}
+
+.contenedor{
+    background-image: url(paisaje.jpg);
+    max-width: 100%;
+    height: fit-content;
+    object-fit: cover;
+}
+
+body{
+    color:black;
+    background-color: white;
+}
